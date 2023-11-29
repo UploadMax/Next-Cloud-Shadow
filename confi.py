@@ -1,0 +1,2 @@
+Bot_token = "6901206871:AAFT6h_hM82dbw6O0DkPbt2mRXQVDBIT66E"
+chanel_id = -1001928903638
